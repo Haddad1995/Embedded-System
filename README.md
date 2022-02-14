@@ -23,6 +23,8 @@ Here you can find python codes for some tasks to do on the raspberry pi sense ha
 You can run the codes on an emulator if you don't have raspberry pi.
 The simulator called Trinket: https://trinket.io 
 
+---
+
 ### Lab3
 In this laboratory you will find some codes about the symmetric and the public
 key cryptography. Those concepts are important in several embedded systems application
