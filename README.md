@@ -1,6 +1,6 @@
 # Embedded System
 
-![Project Image](raspberry pi sense hat.jpg)
+![Project Image](https://github.com/Haddad1995/Embedded-System/blob/master/raspberry%20pi%20sense%20hat.jpg?raw=true)
 
 > This is a ReadMe template to help save you time and effort.
 ---
