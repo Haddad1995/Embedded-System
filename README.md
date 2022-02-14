@@ -30,11 +30,11 @@ In this laboratory you will find some codes about the symmetric and the public
 key cryptography. Those concepts are important in several embedded systems application
 where you have to hide information from possible attackers.
 Inside the Lab3 you will find:
-Lab3_3 Caesar cipher - encryption.
-Lab3_3A The same as Lab3_3 but modified so that the program be able to handle upper case letters.
-Lab3_4 Caesar cipher - decryption.
-Lab3_6 Public key cryptography.
-Lab3_7 Choosing public key to use with the Caesar cipher.
+*Lab3_3 Caesar cipher - encryption.
+*Lab3_3A The same as Lab3_3 but modified so that the program be able to handle upper case letters.
+*Lab3_4 Caesar cipher - decryption.
+*Lab3_6 Public key cryptography.
+*Lab3_7 Choosing public key to use with the Caesar cipher.
 
 
 
